@@ -1,3 +1,4 @@
+#LSTM
 # IMPORTING IMPORTANT LIBRARIES
 import pandas as pd
 import matplotlib.pyplot as plt
